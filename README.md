@@ -9,8 +9,8 @@
 
 ## FULLY MODIFIED CODE
 
-![Image alt](https://github.com/VovaMaybeNextTime/Lab5OS/blob/main/res/3.jpg)
+![Image alt](https://github.com/VovaMaybeNextTime/Lab5OS/blob/main/res/4.jpg)
 
 ## TIMER (FULLY MODIFIED CODE)
 
-![Image alt](https://github.com/VovaMaybeNextTime/Lab5OS/blob/main/res/4.jpg)
+![Image alt](https://github.com/VovaMaybeNextTime/Lab5OS/blob/main/res/3.jpg)
