@@ -1,0 +1,13 @@
+C:\Users\Home\Desktop\Lab5OS\Lab5OS\bin\Debug\netcoreapp3.1\Lab5OS.exe
+C:\Users\Home\Desktop\Lab5OS\Lab5OS\bin\Debug\netcoreapp3.1\Lab5OS.deps.json
+C:\Users\Home\Desktop\Lab5OS\Lab5OS\bin\Debug\netcoreapp3.1\Lab5OS.runtimeconfig.json
+C:\Users\Home\Desktop\Lab5OS\Lab5OS\bin\Debug\netcoreapp3.1\Lab5OS.runtimeconfig.dev.json
+C:\Users\Home\Desktop\Lab5OS\Lab5OS\bin\Debug\netcoreapp3.1\Lab5OS.dll
+C:\Users\Home\Desktop\Lab5OS\Lab5OS\bin\Debug\netcoreapp3.1\Lab5OS.pdb
+C:\Users\Home\Desktop\Lab5OS\Lab5OS\obj\Debug\netcoreapp3.1\Lab5OS.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\Lab5OS\Lab5OS\obj\Debug\netcoreapp3.1\Lab5OS.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Lab5OS\Lab5OS\obj\Debug\netcoreapp3.1\Lab5OS.AssemblyInfo.cs
+C:\Users\Home\Desktop\Lab5OS\Lab5OS\obj\Debug\netcoreapp3.1\Lab5OS.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Lab5OS\Lab5OS\obj\Debug\netcoreapp3.1\Lab5OS.dll
+C:\Users\Home\Desktop\Lab5OS\Lab5OS\obj\Debug\netcoreapp3.1\Lab5OS.pdb
+C:\Users\Home\Desktop\Lab5OS\Lab5OS\obj\Debug\netcoreapp3.1\Lab5OS.genruntimeconfig.cache
